@@ -2,7 +2,6 @@
 <h3>A passionate frontend developer from the city of Lyon 🇫🇷 🦁</h3>
 
 - 🔭 I’m currently working on **my portfolio and algorithmic**
-- 👯 I’m looking for **a job as a front-end developer 💻**
 - 🤝 I’m looking for help **to develop my professional network**
 - 📫 How to reach me **c.nahornyj@hotmail.fr 📧**
 
