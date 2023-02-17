@@ -1,9 +1,9 @@
 <h1>Bonjour,<br> je suis Clara Nahornyj 👩‍💻</h1>
 <h2>développeur front-end passionné situé à Lyon 🇫🇷</h2>
 
-- 🔭 I’m currently working on **my portfolio and algorithmic**
-- 🤝 I’m looking for help **to develop my professional network**
-- 📫 How to reach me **c.nahornyj@hotmail.fr 📧**
+- 🔭 Je travaille actuellement sur **mon portfolio et l'algorithmie**
+- 🤝 Je souhaite développer mon **réseau professionnel**
+- 📫 Si vous voulez échanger **c.nahornyj@hotmail.fr 📧**
 
 <h3>Connect with me:</h3>
 <p>
