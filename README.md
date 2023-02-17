@@ -1,4 +1,4 @@
-<h1>Bonjour,<br> je suis Clara Nahornyj 👩‍💻</h1>
+<h2>Bonjour,<br> je suis Clara Nahornyj 👩‍💻</h2>
 <h2>développeur front-end passionné situé à Lyon 🇫🇷</h2>
 
 - 🔭 Je travaille actuellement sur **mon portfolio et l'algorithmie**
