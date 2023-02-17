@@ -1,7 +1,5 @@
-<div style="margin-left:20px">
-<h1>Bonjour 👋,<br> je suis Clara Nahornyj</h1>
-<h3>développeur front-end passionné situé à Lyon 🇫🇷 🦁</h3>
-</div>  
+<p>Bonjour,<br> je suis Clara Nahornyj 👩‍💻</p>
+<h1>développeur front-end passionné situé à Lyon 🇫🇷</h1>
 
 - 🔭 I’m currently working on **my portfolio and algorithmic**
 - 🤝 I’m looking for help **to develop my professional network**
