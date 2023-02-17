@@ -1,6 +1,5 @@
-<p>Bonjour,<br> je suis Clara Nahornyj 👩‍💻</p>
+<h1>Bonjour,<br> je suis Clara Nahornyj 👩‍💻</h1>
 <h1>développeur front-end passionné situé à Lyon 🇫🇷</h1>
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 
 - 🔭 I’m currently working on **my portfolio and algorithmic**
 - 🤝 I’m looking for help **to develop my professional network**
