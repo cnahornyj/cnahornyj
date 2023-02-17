@@ -1,5 +1,4 @@
-<h3>Bonjour, je suis Clara,</br>
-développeur front-end passionné 👩‍💻</h3>
+<h3>Bonjour, je suis Clara, développeur front-end passionné 👩‍💻</h3>
 
 - 🔭 Je travaille actuellement sur **mon portfolio et l'algorithmie**
 - 🤝 Je souhaite développer mon **réseau professionnel**
