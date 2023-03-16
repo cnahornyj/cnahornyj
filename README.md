@@ -2,7 +2,7 @@
 
 - 🔭 J'occupe le poste d'**intégrateur SIRH** et je travaille en parallèle sur **mon portfolio**
 - 📚 J'apprends actuellement **les principes d'algorithmique** 
-- 🤝 Je souhaite développer mon **réseau professionnel** et **participer à des projets** (mode, sport)
+- 🤝 Je souhaite développer mon **réseau professionnel** et **participer à des projets** (e-commerce, application utilitaire)
 - ✅ Je suis une testeuse aguerrie, si vous avez besoin de feedbacks vous pouvez compter sur moi !
 - 📫 Si vous voulez échanger **c.nahornyj@hotmail.fr**
 
