@@ -4,7 +4,7 @@
 - 📚 J'apprends actuellement **les principes d'algorithmique** et je continue à pratiquer **React**
 - 🤝 Je souhaite développer mon **réseau professionnel** et **participer à des projets** (e-commerce, application utilitaire)
 - ✅ Je suis une testeuse aguerrie, si vous avez besoin de feedbacks vous pouvez compter sur moi !
-- 📫 Si vous voulez échanger **clara.nahornyj@hotmail.com**
+- 📫 Si vous voulez échanger **clara.nahornyj@hotmail.com** et si vous êtes curieux voici mon <a href="https://cnahornyj.github.io/portfolio/" target="blank">site</a>
 
 <h4>Pour se connecter : <a href="https://linkedin.com/in/claranahornyj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="claranahornyj" height="25" width="35" /></a></h4>
 
