@@ -1,6 +1,6 @@
 <h3>Bonjour, je suis Clara, développeur full stack passionné 👩‍💻</h3>
 
-- 🔭 J'occupe le poste d'**intégrateur SIRH** et je travaille en parallèle sur **un projet d'application d'organisation de voyages**
+- 🔭 J'occupe le poste de **développeur SIRH** et je travaille en parallèle sur **un projet d'application d'organisation de voyages**
 - 📚 J'apprends actuellement **les principes d'algorithmique** et je continue à pratiquer **React**
 - 🤝 Je souhaite développer mon **réseau professionnel** et **participer à des projets** (e-commerce, application utilitaire)
 - ✅ Je suis une testeuse aguerrie, si vous avez besoin de feedbacks vous pouvez compter sur moi !
