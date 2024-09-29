@@ -1,4 +1,4 @@
-<h3>Bonjour, je suis Clara, développeur full stack passionné 👩‍💻</h3>
+<h3>Bonjour, je suis Clara, développeur full stack passionnée 👩‍💻</h3>
 
 - 🔭 J'occupe le poste de **développeur SIRH** et je travaille en parallèle sur **un projet d'application d'organisation de voyages**
 - 📚 Je me forme actuellement sur **Typescript** et je continue à pratiquer **React**
